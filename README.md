@@ -1,4 +1,4 @@
-# UX Architecture of a Mobile Grocery Loyalty Dashboard: A Customer-Centered Approach**
+# UX Architecture of a Mobile Grocery Loyalty Dashboard: A Customer-Centered Approach
 
 This repository accompanies a bachelor's thesis investigating how a user-centered UX architecture for a mobile grocery loyalty dashboard can improve usability, comprehension, and engagement with loyalty features, based on Silpo's app as the case study
 
