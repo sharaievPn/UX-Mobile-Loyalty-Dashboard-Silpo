@@ -1,0 +1,7 @@
+Lp.,Name,Id,VAI™,VAI™ Reach,VAI™ Speed,VAI™ Hold,Avg. TTFF,Avg. Relative TTFF,Avg. TTFG,Fixations Avg. Time Spent,Gazes Avg. Time Spent,Fixations,Gazes,Fixations ratio,Fixations relative ratio,Gazes ratio,Avg. Fixation Duration,Avg. FFD,K-coefficient,Avg. Revisits,AOI Time Range
+1,content_recipe_cards,aacabfc4-65e3-49d5-9551-006626fdc140,74.60%,100.00%,86.60%,37.20%,1.1s,0.6s,0.73s,1.67s,2.38s,161,2354,22 / 22 (100%),22 / 22 (100%),22 / 22 (100%),0.23s,0.23s,0.31,1.45,0.5s ‒ 5s
+2,meta_shuba_recipes_header,0bceb9b7-0975-4776-82cd-1402df91be76,37.90%,63.60%,44.90%,5.00%,1.82s,1.32s,1.62s,0.36s,0.42s,23,322,14 / 22 (64%),14 / 22 (64%),17 / 22 (77%),0.21s,0.23s,0.05,0.23,0.5s ‒ 5s
+3,meta_silpo_delivery_header,141a156a-9563-4fe5-b40d-286db3655ccd,13.40%,27.30%,11.70%,1.30%,3.07s,2.57s,3.01s,0.22s,0.3s,8,131,6 / 22 (27%),6 / 22 (27%),10 / 22 (45%),0.16s,0.17s,-1,0.12,0.5s ‒ 5s
+4,nav_tabpills,30ea254a-e51c-437a-b341-e597bb6b4c06,16.70%,31.80%,15.80%,2.60%,2.77s,2.27s,2.41s,0.36s,0.34s,12,140,7 / 22 (32%),7 / 22 (32%),9 / 22 (41%),0.21s,0.2s,-0.35,0.15,0.5s ‒ 5s
+5,nav_topbar,bff099de-ce30-43b5-9450-e92505df4d8a,6.60%,13.60%,5.60%,0.70%,3.15s,2.65s,2.28s,0.22s,0.24s,4,76,3 / 22 (14%),3 / 22 (14%),7 / 22 (32%),0.17s,0.15s,-0.69,0,0.5s ‒ 5s
+6,offer_recipes_home_banner,5df515b6-df45-45db-be5e-71686eda38e8,27.70%,50.00%,27.30%,5.90%,2.54s,2.04s,2.16s,0.53s,0.44s,26,362,11 / 22 (50%),11 / 22 (50%),18 / 22 (82%),0.22s,0.26s,0.15,0.24,0.5s ‒ 5s

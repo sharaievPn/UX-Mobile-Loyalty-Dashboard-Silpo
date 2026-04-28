@@ -1,0 +1,7 @@
+Lp.,Name,Id,VAI™,VAI™ Reach,VAI™ Speed,VAI™ Hold,Avg. TTFF,Avg. Relative TTFF,Avg. TTFG,Fixations Avg. Time Spent,Gazes Avg. Time Spent,Fixations,Gazes,Fixations ratio,Fixations relative ratio,Gazes ratio,Avg. Fixation Duration,Avg. FFD,K-coefficient,Avg. Revisits,AOI Time Range
+1,meta_more_benefits_header,aaa52ed2-127a-45b0-94d9-7391fc15a87f,42.20%,68.20%,51.80%,6.70%,1.59s,1.09s,1.26s,0.44s,0.47s,31,426,15 / 22 (68%),15 / 22 (68%),21 / 22 (95%),0.2s,0.21s,-0.09,0.41,0.5s ‒ 5s
+2,nav_tabpills,d0593268-9328-41f7-bc2b-dfac3cbd3376,14.40%,27.30%,13.70%,2.30%,2.74s,2.24s,3.09s,0.38s,0.24s,10,150,6 / 22 (27%),6 / 22 (27%),14 / 22 (64%),0.21s,0.18s,-0.5,0.06,0.5s ‒ 5s
+3,nav_topbar,26419dc2-31d8-4172-9c65-ad5cf6aebe7f,6.50%,13.60%,5.40%,0.60%,3.21s,2.71s,3.52s,0.19s,0.16s,4,42,3 / 22 (14%),3 / 22 (14%),6 / 22 (27%),0.16s,0.17s,-0.33,0,0.5s ‒ 5s
+4,offer_plyukhs_subscription,9d259bed-cefb-476a-abec-0eddd6fb9cf5,46.80%,77.30%,54.50%,8.70%,1.83s,1.33s,1.53s,0.51s,0.66s,41,627,17 / 22 (77%),17 / 22 (77%),21 / 22 (95%),0.22s,0.21s,0.3,0.55,0.5s ‒ 5s
+5,offer_referral,b11e5f33-9801-47ea-b1b6-bf091e9e4d33,36.40%,68.20%,34.10%,6.90%,2.75s,2.25s,2.75s,0.46s,0.53s,34,471,15 / 22 (68%),15 / 22 (68%),20 / 22 (91%),0.22s,0.24s,0.05,0.41,0.5s ‒ 5s
+6,offer_wheel_of_fortune,7c3fe929-3612-41fb-b3c8-16bf861b57ac,48.70%,81.80%,54.50%,9.80%,2s,1.5s,1.69s,0.54s,0.6s,39,613,18 / 22 (82%),18 / 22 (82%),22 / 22 (100%),0.23s,0.25s,0.08,0.36,0.5s ‒ 5s

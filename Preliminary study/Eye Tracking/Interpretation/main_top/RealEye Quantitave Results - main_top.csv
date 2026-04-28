@@ -1,0 +1,8 @@
+Lp.,Name,Id,VAI™,VAI™ Reach,VAI™ Speed,VAI™ Hold,Avg. TTFF,Avg. Relative TTFF,Avg. TTFG,Fixations Avg. Time Spent,Gazes Avg. Time Spent,Fixations,Gazes,Fixations ratio,Fixations relative ratio,Gazes ratio,Avg. Fixation Duration,Avg. FFD,K-coefficient,Avg. Revisits,AOI Time Range
+1,nav_tabpills,d7c0b7ae-9b8b-47d4-a843-dc81eea65b34,32.40%,59.10%,34.70%,3.30%,2.36s,1.86s,2.09s,0.25s,0.21s,16,178,13 / 22 (59%),13 / 22 (59%),19 / 22 (86%),0.21s,0.2s,-0.14,0.09,0.5s ‒ 5s
+2,nav_topbar,a9984655-068a-49d5-954a-733d0c5199ec,21.80%,36.40%,25.50%,3.40%,1.84s,1.34s,1.26s,0.43s,0.34s,13,172,8 / 22 (36%),8 / 22 (36%),11 / 22 (50%),0.27s,0.29s,-0.16,0.09,0.5s ‒ 5s
+3,offer_personalized_primary,fe637d09-258f-44b5-92be-af3db0ea8856,59.80%,95.50%,60.30%,23.50%,2.16s,1.66s,1.78s,1.11s,1.27s,82,1231,21 / 22 (95%),21 / 22 (95%),21 / 22 (95%),0.28s,0.29s,0.17,0.95,0.5s ‒ 5s
+4,partner_wau_primary,61fb3862-8538-4905-b580-21c4a800cce7,12.60%,22.70%,10.40%,4.50%,2.93s,2.43s,3.28s,0.9s,0.78s,15,251,5 / 22 (23%),5 / 22 (23%),7 / 22 (32%),0.32s,0.36s,-0.69,0.12,0.5s ‒ 5s
+5,status_balance,aefd2aa3-31e4-49f0-93cd-dbdcb678704b,9.90%,18.20%,10.00%,1.40%,2.51s,2.01s,1.73s,0.35s,0.24s,5,166,4 / 22 (18%),4 / 22 (18%),15 / 22 (68%),0.26s,0.27s,0.47,0,0.5s ‒ 5s
+6,status_mascot,1204f943-6936-49f1-8c4c-f338ad97e43c,18.80%,31.80%,22.10%,2.60%,1.87s,1.37s,1.87s,0.37s,0.26s,11,163,7 / 22 (32%),7 / 22 (32%),14 / 22 (64%),0.24s,0.25s,0.76,0.11,0.5s ‒ 5s
+7,status_moyavygoda,e9df8f0b-d45d-4bf4-b484-c8be5d992e22,39.70%,72.70%,38.00%,8.40%,2.65s,2.15s,1.58s,0.52s,0.51s,30,420,16 / 22 (73%),16 / 22 (73%),18 / 22 (82%),0.27s,0.28s,-0.06,0.32,0.5s ‒ 5s

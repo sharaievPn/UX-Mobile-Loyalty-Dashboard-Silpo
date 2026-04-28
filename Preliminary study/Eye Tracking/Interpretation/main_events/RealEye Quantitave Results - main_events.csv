@@ -1,0 +1,7 @@
+Lp.,Name,Id,VAI™,VAI™ Reach,VAI™ Speed,VAI™ Hold,Avg. TTFF,Avg. Relative TTFF,Avg. TTFG,Fixations Avg. Time Spent,Gazes Avg. Time Spent,Fixations,Gazes,Fixations ratio,Fixations relative ratio,Gazes ratio,Avg. Fixation Duration,Avg. FFD,K-coefficient,Avg. Revisits,Clicks,Avg. TTFC,Avg. Relative TTFC,AOI Time Range
+1,content_events_cards,36240ad1-8c13-4c0a-ab2c-10127eddd191,67.60%,91.30%,75.60%,36.00%,1.27s,0.77s,1.13s,1.77s,1.95s,126,1940,21 / 23 (91%),21 / 23 (91%),22 / 23 (96%),0.3s,0.31s,0.35,1.09,0,N/A,N/A,0.5s ‒ 5s
+2,content_loko_cards,9229f6f4-0d18-44f8-a8b4-05bb69c1dcde,33.10%,56.50%,34.80%,8.00%,2.23s,1.73s,1.93s,0.64s,0.69s,31,506,13 / 23 (57%),13 / 23 (57%),16 / 23 (70%),0.26s,0.3s,-0.09,0.45,0,N/A,N/A,0.5s ‒ 5s
+3,cta_order_loko,6af78b48-a5c8-4329-a955-ca61e5213712,19.20%,34.80%,19.50%,3.30%,2.47s,1.97s,2.11s,0.43s,0.29s,14,230,8 / 23 (35%),8 / 23 (35%),17 / 23 (74%),0.24s,0.27s,-0.44,0.17,0,N/A,N/A,0.5s ‒ 5s
+4,meta_events_header,ec54ed2c-bd92-4167-ae51-c9b7611e21a3,37.60%,65.20%,39.60%,8.10%,2.27s,1.77s,1.43s,0.56s,0.51s,31,496,15 / 23 (65%),15 / 23 (65%),21 / 23 (91%),0.28s,0.3s,0.2,0.48,0,N/A,N/A,0.5s ‒ 5s
+5,nav_tabpills,a69aad87-2fee-42f2-bdea-6c14ea1480e2,20.60%,39.10%,19.50%,3.30%,2.76s,2.26s,2.78s,0.38s,0.28s,12,202,9 / 23 (39%),9 / 23 (39%),16 / 23 (70%),0.28s,0.26s,-0.18,0.09,0,N/A,N/A,0.5s ‒ 5s
+6,nav_topbar,ea74da47-632a-4f9b-ae8b-95db498fa8be,21.10%,43.50%,15.00%,4.80%,3.44s,2.94s,2.96s,0.5s,0.33s,15,209,10 / 23 (43%),10 / 23 (43%),14 / 23 (61%),0.34s,0.34s,0.46,0.18,0,N/A,N/A,0.5s ‒ 5s

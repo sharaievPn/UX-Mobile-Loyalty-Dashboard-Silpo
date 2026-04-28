@@ -1,0 +1,7 @@
+Lp.,Name,Id,VAI™,VAI™ Reach,VAI™ Speed,VAI™ Hold,Avg. TTFF,Avg. Relative TTFF,Avg. TTFG,Fixations Avg. Time Spent,Gazes Avg. Time Spent,Fixations,Gazes,Fixations ratio,Fixations relative ratio,Gazes ratio,Avg. Fixation Duration,Avg. FFD,K-coefficient,Avg. Revisits,Clicks,Avg. TTFC,Avg. Relative TTFC,AOI Time Range
+1,content_silpo_product_grid,507f46a3-f0fc-427e-8b32-b6d4127afba8,47.40%,78.30%,54.50%,9.60%,1.87s,1.37s,1.03s,0.55s,0.64s,38,601,18 / 23 (78%),18 / 23 (78%),21 / 23 (91%),0.25s,0.24s,0.28,0.43,0,N/A,N/A,0.5s ‒ 5s
+2,content_tsinotyzhyky_cards,8a2f8685-fa27-49de-a0a8-2f84442ffe00,60.00%,95.70%,61.50%,22.90%,2.11s,1.61s,1.63s,1.08s,1.26s,87,1246,22 / 23 (96%),22 / 23 (96%),22 / 23 (96%),0.26s,0.24s,0.19,1.17,0,N/A,N/A,0.5s ‒ 5s
+3,meta_loko_header,191bc869-5809-4e94-80ff-2aebdbb56a21,21.50%,39.10%,20.20%,5.00%,2.68s,2.18s,2.91s,0.58s,0.45s,19,268,9 / 23 (39%),9 / 23 (39%),13 / 23 (57%),0.29s,0.25s,-0.31,0.27,0,N/A,N/A,0.5s ‒ 5s
+4,meta_tsinotyzhyky_header,d93764c9-55eb-44a8-88f3-c09aea5f77f2,38.90%,65.20%,43.20%,8.30%,2.02s,1.52s,1.59s,0.57s,0.56s,28,560,15 / 23 (65%),15 / 23 (65%),22 / 23 (96%),0.28s,0.29s,0.13,0.36,0,N/A,N/A,0.5s ‒ 5s
+5,nav_tabpills,8de3c891-7dcb-49c5-9b75-204d8313165d,27.70%,43.50%,33.60%,6.20%,1.53s,1.03s,1.57s,0.64s,0.35s,22,319,10 / 23 (43%),10 / 23 (43%),20 / 23 (87%),0.28s,0.34s,0.03,0.43,0,N/A,N/A,0.5s ‒ 5s
+6,nav_topbar,89d52724-42a7-431f-b683-ef1d7c843666,20.60%,34.80%,22.10%,4.80%,2.14s,1.64s,1.97s,0.62s,0.47s,18,286,8 / 23 (35%),8 / 23 (35%),14 / 23 (61%),0.27s,0.27s,-0.4,0.26,0,N/A,N/A,0.5s ‒ 5s
